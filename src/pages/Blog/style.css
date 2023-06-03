@@ -8,7 +8,7 @@
 
 .single_blog .top_section {
   display: flex;
-  width: 15%;
+  width: 17%;
   font-weight: 700;
   font-size: 14px;
   color: #495057;
@@ -18,7 +18,7 @@
   display: block;
   width: 48px;
   text-align: right;
-  border-top: 2px solid #e5e5e5;
+  border-top: 2px solid #ccc;
   margin: 10px;
 }
 
@@ -36,7 +36,7 @@
 .single_blog .main .title {
   font-weight: 700;
   font-size: 40px;
-  line-height: 30px;
+  line-height: 53px;
   color: #495057;
 }
 
