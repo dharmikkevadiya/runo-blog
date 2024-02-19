@@ -37,14 +37,14 @@
 }
 
 .blog_card .date {
-  font-family: "Lora";
+
   color: #6c757d;
   padding: 20px;
   font-weight: 400;
 }
 
 .blog_card .title {
-  font-family: "Lora";
+
   font-style: normal;
   font-weight: 700;
   font-size: 28px;
@@ -53,7 +53,7 @@
 }
 
 .blog_card .description {
-  font-family: "Lora";
+
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;

@@ -13,7 +13,7 @@ footer .main {
 }
 
 footer .main h1 {
-  font-family: "Lora";
+
   font-weight: 700;
   font-size: 18px;
   line-height: 25px;
@@ -45,7 +45,7 @@ footer .bottom_section {
   height: 80px;
   justify-content: space-between;
   align-items: center;
-  font-family: "Lora";
+
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
